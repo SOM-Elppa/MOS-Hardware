@@ -24,3 +24,13 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerbers and drills
+*.gbr
+*.rpt
+*.drl
+*_map.ps
+
+# .DS_Store (from Mac OS X)
+*.DS_Store
+.DS_Store
