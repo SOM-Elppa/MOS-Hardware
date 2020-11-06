@@ -213,7 +213,7 @@ Wire Wire Line
 Wire Wire Line
 	5750 3750 5450 3750
 Text Label 5350 2850 0    50   ~ 0
-CLK_INPUT
+CLK
 Text Label 5450 3750 0    50   ~ 0
 RWB
 $Comp
@@ -558,13 +558,11 @@ Wire Wire Line
 	5350 2950 5750 2950
 Wire Wire Line
 	5350 3050 5750 3050
-Text Label 2950 4250 2    50   ~ 0
-CLK_INPUT
 Wire Wire Line
 	2550 6350 3150 6350
-Text Label 2950 4150 2    50   ~ 0
-CLK_INTERNAL
 Text Label 2950 4350 2    50   ~ 0
+CLK_INTERNAL
+Text Label 2950 4250 2    50   ~ 0
 CLK
 Text Label 5350 2950 0    50   ~ 0
 PHI1
